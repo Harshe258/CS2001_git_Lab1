@@ -212,3 +212,8 @@ Student ID | Movie | Year of Release
 1842048 | Lord of the Rings | 2001-2003
 1842048 | Dark Knight | 2008
 1842048 | Schiendlers List |1993
+1908199 | 2 Fast 2 Furious | 2003 
+1908199 | Man of Steel | 2013 
+1908199 | The Maze Runner | 2014 
+1908199 | Now you See me | 2013 
+1908199 | Inception | 2010
